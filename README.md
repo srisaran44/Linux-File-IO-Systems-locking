@@ -78,6 +78,11 @@ int main(int argc, char *argv[]) {
 ```
 ## OUTPUT
 <img width="396" height="297" alt="image" src="https://github.com/user-attachments/assets/139667cf-883a-4444-8e7a-a42e2706869b" />
+
+
+
+
+
 ## 2.To Write a C program that illustrates files locking
 ```c
 //C program that illustrates files locking goes here
